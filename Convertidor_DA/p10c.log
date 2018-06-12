@@ -1,0 +1,15 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F452 -RA -DL -O11111115 -fo8 -N"D:\Escritorio\Archivos HAE\Miercoles de 9 a 11\p10\c\p10c.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\Escritorio\Archivos HAE\Miercoles de 9 a 11\p10\c\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"D:\Escritorio\Archivos HAE\Miercoles de 9 a 11\p10\c\" "p10c.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CMath.mcl" "__Lib_SPI_c345.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	P18F452.c
+diagnostics: 1178	123	Compiled Successfully	P18F452.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 172	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	p10c.c
+diagnostics: 60	123	Compiled Successfully	p10c.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+hint: 0	1144	Used RAM (bytes): 16 (1%)  Free RAM (bytes): 1499 (99%)	Used RAM (bytes): 16 (1%)  Free RAM (bytes): 1499 (99%)
+hint: 0	1144	Used ROM (bytes): 374 (1%)  Free ROM (bytes): 32394 (99%)	Used ROM (bytes): 374 (1%)  Free ROM (bytes): 32394 (99%)
+diagnostics: 0	125	Project Linked Successfully	p10c.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'p10c.mcppi' completed: 328 ms	 
+diagnostics: 0	103	Finished successfully: 02 may. 2018, 10:35:47	p10c.mcppi
